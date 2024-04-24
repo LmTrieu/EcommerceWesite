@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+xbHCeJ8qI7/RJJ6/gINTTK0lsu6cF2p8751z+z0DZg=",
+  "Source": "EcommerceWeb.Server",
+  "BasePath": "_content/EcommerceWeb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\Private\\Work\\SelfDemo\\EcommerceWeb\\ecommerceweb.client\\ecommerceweb.client.esproj",
+      "Version": 2,
+      "Source": "ecommerceweb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

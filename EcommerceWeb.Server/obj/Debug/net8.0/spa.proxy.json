@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\admin\\Desktop\\Private\\Work\\SelfDemo\\EcommerceWeb\\EcommerceWeb.Server\\..\\ecommerceweb.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
